@@ -161,6 +161,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 2rem;
+  padding: 70px 10% 0;
   background: var(--second-bg-color);
 }
 
@@ -179,6 +180,14 @@ body {
   line-height: 1.2;
 }
 
+.about-content h3 {
+  font-size: 2.6rem;
+}
+
+.about-content p {
+  font-size: 1.6rem;
+  margin: 2rem 0 3rem;
+}
 /*  KEYFRAMES ANIMATION */
 @keyframes slideRight {
   0% {
